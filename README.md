@@ -12,7 +12,7 @@ You can install the released version of helpeR from [CRAN](https://CRAN.R-projec
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("nikhilchandra-stats/niksmacrohelpers")
+devtools::install_github("nikhilchandra-stats/helpeR")
 ```
 
 ## Example
