@@ -11,7 +11,8 @@ The goal of helpeR is to ...
 You can install the released version of helpeR from [CRAN](https://CRAN.R-project.org) with:
 
 ``` r
-install.packages("helpeR")
+# install.packages("devtools")
+devtools::install_github("nikhilchandra-stats/niksmacrohelpers")
 ```
 
 ## Example
